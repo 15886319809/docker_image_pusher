@@ -1,1 +1,1 @@
-coredns/coredns:1.10.1
+nginx:1.24.0
