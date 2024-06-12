@@ -1,1 +1,1 @@
-calico/node:v3.26.4
+java:openjdk-8u111-alpine
