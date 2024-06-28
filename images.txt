@@ -1,3 +1,1 @@
-docker.io/calico/cni:v3.26.4
-docker.io/calico/node:v3.26.4
-docker.io/calico/kube-controllers:v3.26.4
+docker.io/mysql:8.0.30
