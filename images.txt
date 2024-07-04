@@ -1,1 +1,7 @@
-docker.io/mysql:8.0.30
+docker.io/kube-apiserver:v1.27.15
+docker.io/kube-controller-manager:v1.27.15
+docker.io/kube-scheduler:v1.27.15
+docker.io/kube-proxy:v1.27.15
+docker.io/pause:3.9
+docker.io/etcd:3.5.7-0
+docker.io/coredns/coredns:v1.10.1
