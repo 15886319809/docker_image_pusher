@@ -1,2 +1,1 @@
-docker.io/mysql:9.0-oracle
-
+docker.io/nginx:1.23.4
