@@ -1,1 +1,1 @@
-docker.io/nginx:1.24.0
+docker.io/mysql:8.0.12
