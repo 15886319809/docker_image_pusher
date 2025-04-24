@@ -1,3 +1,3 @@
 
-docker.io/mysqlzookeeper:latest
-docker.io/mysqlrabbitmq:management
+docker.io/zookeeper:latest
+docker.io/rabbitmq:management
