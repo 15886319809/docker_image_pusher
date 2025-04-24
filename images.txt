@@ -1,3 +1,2 @@
 
-docker.io/zookeeper:latest
-docker.io/rabbitmq:management
+docker.io/redis:5.0.4
