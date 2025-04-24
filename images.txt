@@ -1,2 +1,2 @@
 
-docker.io/redis:5.0.4
+docker.io/tdengine/tdengine:3.3.3.0
