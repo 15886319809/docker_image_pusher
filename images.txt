@@ -1,2 +1,2 @@
 
-docker.io/tdengine/tdengine:3.3.3.0
+docker.io/tdengine/tdengine:latest
